@@ -1,0 +1,38 @@
+.initial-hidden {
+  display: none;
+}
+
+/*#azoresClickable {
+  display: none;
+}*/
+
+#showAzores {
+  display: none;
+}
+
+#hideAzores {
+  display: none;
+}
+
+#hideScotland {
+  display: none;
+}
+
+#showScotland{
+  display: none;
+}
+
+#hideColumbia {
+  display: none;
+}
+
+#showColumbia {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
